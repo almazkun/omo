@@ -1,0 +1,7 @@
+FROM llama2
+
+PARAMETER temperature 1
+
+SYSTEM """
+generate git commit message based on the git diff information. output only commit message. do not use any styling. do not add any other explanatory information to the output message.
+"""
