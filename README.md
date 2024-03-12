@@ -1,0 +1,2 @@
+# omo
+Oh my ollamas
