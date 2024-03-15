@@ -1,2 +1,2 @@
-# omo
-Oh my ollamas
+# Oh My Ollama
+My llamas to play with
